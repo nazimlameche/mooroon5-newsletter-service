@@ -1,0 +1,8 @@
+tavily-python
+newspaper4k
+google-generativeai
+resend
+python-dotenv
+fastapi[standard]
+uvicorn
+email-validator
